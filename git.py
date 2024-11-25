@@ -1,2 +1,2 @@
 print ('hello word')
-print ('wike wikmawati1')
+print ('wike wikmawati')
